@@ -12,7 +12,6 @@
 - 🔭 Estou buscando por uma vaga de estágio
 - 🌱 No momento, estou aprendendo Java, PHP e me aprofundando em desenvolvimento web.
 - 📫 Contate-me: talhettialvaro@gmail.com
-- 
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
 - Tecnologia que estou aprendendo:
