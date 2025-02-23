@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Alvaro Francisco Tajetti Filho
-  <div id="badges">
-  <a Target= "_Blank" href = "https://www.linkedin.com/in/alvarotalhetti/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div id="badges">
+<a Target= "_Blank" href = "https://www.linkedin.com/in/alvarotalhetti/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a Target="_Blank" href="https://seuportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+</a>
 </div>
 
 - 📕 Sou estudante de engenharia de software
