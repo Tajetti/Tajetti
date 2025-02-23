@@ -3,7 +3,7 @@
 <a Target= "_Blank" href = "https://www.linkedin.com/in/alvarotalhetti/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a Target="_Blank" href="https://seuportfolio.com">
+<a Target="_Blank" href="[https://seuportfolio.com](https://tajetti.github.io/Meu-Portfolio/)">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
 </a>
 </div>
