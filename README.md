@@ -15,7 +15,7 @@
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
 - Tecnologia que estou aprendendo:
-<div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
@@ -25,10 +25,9 @@
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
-
 </div>
 <br>
-<div align="center">
+<div>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Tajetti&show_icons=true&theme=dark"
