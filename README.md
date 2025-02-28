@@ -16,14 +16,16 @@
 
 - Tecnologia que estou aprendendo:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
-  
+    <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
+
 </div>
 <br>
 <div align="center">
