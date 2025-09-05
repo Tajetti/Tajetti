@@ -18,6 +18,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
