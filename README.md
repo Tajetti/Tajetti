@@ -3,9 +3,9 @@
 <a Target= "_Blank" href = "https://www.linkedin.com/in/alvarotalhetti/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a Target="_Blank" href="https://tajetti.github.io/Portfolio-Tajetti/#Home"/>
+<!-- <a Target="_Blank" href="https://tajetti.github.io/Portfolio-Tajetti/#Home"/>
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
-</a>
+</a> -->
 </div>
 
 - 📕 Sou estudante de engenharia de software
