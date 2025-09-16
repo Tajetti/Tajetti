@@ -9,8 +9,8 @@
 </div>
 
 - 📕 Sou estudante de engenharia de software
-- 🔭 Estou buscando por uma vaga de estágio
-- 🌱 No momento, estou aprendendo Java, PHP e me aprofundando em desenvolvimento web.
+- 🔭 Estagiando na BW8
+- 🌱 No momento, estou aprendendo NodeJS
 - 📫 Contate-me: talhettialvaro@gmail.com
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
