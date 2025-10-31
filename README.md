@@ -27,10 +27,12 @@
     <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>    
 </div>
-  - Tecnologias que estou aprendendo:
-  <div align="center"></div>
-      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="spring" width="40" height="40"/>
-  </div>
+
+- Tecnologia que estou aprendendo:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="40" height="40"/>
+</div>
+
 <br>
 <div>
   <picture>
