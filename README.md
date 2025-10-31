@@ -15,7 +15,7 @@
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
 - Tecnologia:
-<div align="">
+<div>
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/>
@@ -29,7 +29,7 @@
 </div>
 
 - Tecnologia que estou aprendendo:
-<div align="flex">
+<div>
     <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="40" height="40"/>
 </div>
 
