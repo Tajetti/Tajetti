@@ -31,7 +31,6 @@
 - Tecnologia que estou aprendendo:
 <div>
     <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="40" height="40"/>
-  <img src="./assets/n8n-auto.svg" width="40">
 </div>
 
 <br>
