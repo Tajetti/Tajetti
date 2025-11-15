@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="PHP" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=oraclesql&theme=dark" alt="MySQL" width="40" height="40"/>
 </div>
 <h4>Ferramentas:</h4>
 <div>
