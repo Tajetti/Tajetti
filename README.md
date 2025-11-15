@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
 </div>
-- Ferramentas:
+ - Ferramentas:
 <div>
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
