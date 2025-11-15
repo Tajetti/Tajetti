@@ -15,7 +15,7 @@
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
 <h4>Tecnologia:</h4>
-<div style="display: flex; gap: 1px;">
+<div style="display: flex; gap: 100px;">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/>
