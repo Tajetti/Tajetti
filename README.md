@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=n8n&theme=dark" alt="VS Code" width="40" height="40"/>
 </div>
 
 <h4>Tecnologia que estou aprendendo:</h4>
