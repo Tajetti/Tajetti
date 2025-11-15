@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="MySQL" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="PHP" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="MySQL" width="40" height="40"/>
 </div>
