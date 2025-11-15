@@ -14,7 +14,7 @@
 - 📫 Contate-me: talhettialvaro@gmail.com
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
-- Tecnologia:
+<h4>Tecnologia:</h4>
 <div>
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
 </div>
- - Ferramentas:
+<h4>Ferramentas:</h4>
 <div>
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
 </div>
 
-- Tecnologia que estou aprendendo:
+<h4>Tecnologia que estou aprendendo:</h4>
 <div>
     <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="40" height="40"/>
 </div>
