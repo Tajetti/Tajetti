@@ -9,7 +9,7 @@
 </div>
 
 - 📕 Sou estudante de engenharia de software
-- 🔭 Estagiando na BW8
+- 🔭 Dev Junior na BW8
 - 🌱 No momento, estou aprendendo NodeJS
 - 📫 Contate-me: talhettialvaro@gmail.com
 <img src="Imagens/giphy.gif" width = "325px" align="right">
