@@ -10,7 +10,7 @@
 
 - 📕 Sou estudante de engenharia de software
 - 🔭 Dev Junior na BW8
-- 🌱 No momento, estou aprendendo NodeJS
+- 🌱 No momento, estou aprendendo Spring Boot
 - 📫 Contate-me: talhettialvaro@gmail.com
 <img src="Imagens/giphy.gif" width = "325px" align="right">
 
