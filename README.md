@@ -52,10 +52,6 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com expe
   <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" alt="React e Spring Boot">
 </p>
 
-## Projetos em destaque
-
-Em breve, esta seção reunirá alguns dos projetos que melhor representam meu trabalho e minha evolução como desenvolvedor.
-
 ---
 
 Conheça meus trabalhos no [portfólio](https://tajetti.com.br). Se quiser conversar sobre desenvolvimento ou trocar experiências, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alvarotalhetti/) ou por [e-mail](mailto:talhettialvaro@gmail.com).
