@@ -3,6 +3,9 @@
 Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco em desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot.
 
 <p>
+  <a href="https://tajetti.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio de Alvaro Tajetti">
+  </a>
   <a href="https://www.linkedin.com/in/alvarotalhetti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de Alvaro Tajetti no LinkedIn">
   </a>
@@ -54,4 +57,4 @@ Em breve, esta seção reunirá alguns dos projetos que melhor representam meu t
 
 ---
 
-Se quiser conversar sobre desenvolvimento ou trocar experiências, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alvarotalhetti/) ou por [e-mail](mailto:talhettialvaro@gmail.com).
+Conheça meus trabalhos no [portfólio](https://tajetti.com.br). Se quiser conversar sobre desenvolvimento ou trocar experiências, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alvarotalhetti/) ou por [e-mail](mailto:talhettialvaro@gmail.com).
