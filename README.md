@@ -1,6 +1,6 @@
 # Olá, eu sou Alvaro Tajetti 👋
 
-Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com experiência em desenvolvimento backend. Atualmente, estou ampliando meus conhecimentos em frontend com React.
+Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com experiência em desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em React e Spring Boot.
 
 <p>
   <a href="https://tajetti.com.br" target="_blank">
@@ -18,7 +18,7 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com expe
 
 - 💻 Desenvolvedor Júnior na BW8
 - 🎓 Estudante de Engenharia de Software
-- 🌱 Estudando React
+- 🌱 Estudando React e Spring Boot
 - 🤝 Aberto a trocar experiências e colaborar em projetos
 
 <img src="Imagens/giphy.gif" width="325" align="right" alt="Animação de uma pessoa programando">
@@ -48,7 +48,7 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com expe
 ## Estudando atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">
+  <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" alt="React e Spring Boot">
 </p>
 
 ## Projetos em destaque
