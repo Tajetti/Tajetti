@@ -1,44 +1,57 @@
-## Olá! Eu sou o Alvaro Francisco Tajetti Filho
-<div id="badges">
-<a Target= "_Blank" href = "https://www.linkedin.com/in/alvarotalhetti/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<!-- <a Target="_Blank" href="https://tajetti.github.io/Portfolio-Tajetti/#Home"/>
-  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
-</a> -->
-</div>
+# Olá, eu sou Alvaro Tajetti 👋
 
-- 📕 Sou estudante de engenharia de software
-- 🔭 Dev Junior na BW8
-- 🌱 No momento, estou aprendendo Spring Boot
-- 📫 Contate-me: talhettialvaro@gmail.com
-<img src="Imagens/giphy.gif" width = "325px" align="right">
+Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco em desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot.
 
-<h4>Tecnologia:</h4>
-<div>
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="MySQL" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="PHP" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="MySQL" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=oraclesql&theme=dark" alt="MySQL" width="40" height="40"/>
-</div>
-<h4>Ferramentas:</h4>
-<div>
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
-    <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" alt="DBeaver" width="40" height="40"/>
+<p>
+  <a href="https://www.linkedin.com/in/alvarotalhetti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de Alvaro Tajetti no LinkedIn">
+  </a>
+  <a href="mailto:talhettialvaro@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Alvaro Tajetti">
+  </a>
+</p>
 
-</div>
+## Sobre mim
 
-<h4>Tecnologia que estou aprendendo:</h4>
-<div>
-    <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="40" height="40"/>
-</div>
+- 💻 Desenvolvedor Júnior na BW8
+- 🎓 Estudante de Engenharia de Software
+- 🌱 Estudando Java e Spring Boot
+- 🤝 Aberto a trocar experiências e colaborar em projetos
 
+<img src="Imagens/giphy.gif" width="325" align="right" alt="Animação de uma pessoa programando">
+
+## Tecnologias
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,laravel&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, PHP e Laravel">
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="MySQL e PostgreSQL">
+  <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="48" height="48" alt="Oracle Database">
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,figma,notion,vscode&theme=dark" alt="GitHub, Figma, Notion e Visual Studio Code">
+  <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" width="48" height="48" alt="DBeaver">
+</p>
+
+## Estudando atualmente
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot">
+</p>
+
+## Projetos em destaque
+
+Em breve, esta seção reunirá alguns dos projetos que melhor representam meu trabalho e minha evolução como desenvolvedor.
+
+---
+
+Se quiser conversar sobre desenvolvimento ou trocar experiências, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alvarotalhetti/) ou por [e-mail](mailto:talhettialvaro@gmail.com).
