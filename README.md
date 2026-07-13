@@ -1,6 +1,6 @@
 # Olá, eu sou Alvaro Tajetti 👋
 
-Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco em desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot.
+Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com experiência em desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em React e Spring Boot.
 
 <p>
   <a href="https://tajetti.com.br" target="_blank">
@@ -18,7 +18,7 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco
 
 - 💻 Desenvolvedor Júnior na BW8
 - 🎓 Estudante de Engenharia de Software
-- 🌱 Estudando Java,  Spring Boot e React
+- 🌱 Estudando React e Spring Boot
 - 🤝 Aberto a trocar experiências e colaborar em projetos
 
 <img src="Imagens/giphy.gif" width="325" align="right" alt="Animação de uma pessoa programando">
@@ -34,7 +34,7 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco
 ### Bancos de dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="MySQL e PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark" alt="MySQL, PostgreSQL e Supabase">
   <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="48" height="48" alt="Oracle Database">
 </p>
 
@@ -43,12 +43,13 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com foco
 <p>
   <img src="https://skillicons.dev/icons?i=github,figma,notion,vscode&theme=dark" alt="GitHub, Figma, Notion e Visual Studio Code">
   <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" width="48" height="48" alt="DBeaver">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" alt="n8n">
 </p>
 
 ## Estudando atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot">
+  <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" alt="React e Spring Boot">
 </p>
 
 ## Projetos em destaque
