@@ -28,7 +28,7 @@ Sou estudante de Engenharia de Software e Desenvolvedor Júnior na BW8, com expe
 ### Linguagens e desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,electron,python,java,php,laravel&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, PHP e Laravel">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,electron,python,java,php,laravel&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, PHP e Laravel">
 </p>
 
 ### Bancos de dados
