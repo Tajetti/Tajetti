@@ -84,19 +84,3 @@ Estudante de Engenharia de Software com foco em desenvolvimento backend, princip
 </p>
 
 `Java` · `Spring Boot` · `React` · `Docker` · `Arquitetura Backend`
-
-## Contato
-
-<p>
-  <a href="https://tajetti.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/alvarotalhetti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:talhettialvaro@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
