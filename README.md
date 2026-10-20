@@ -2,6 +2,10 @@
 
 Estudante de Engenharia de Software com foco em desenvolvimento backend, principalmente com **Java e Spring Boot**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tajetti/Tajetti/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha comendo o gráfico de contribuições do GitHub">
+</p>
+
 <p>
   <a href="https://tajetti.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
